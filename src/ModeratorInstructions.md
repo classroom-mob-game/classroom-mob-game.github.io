@@ -1,7 +1,7 @@
 # Moderator Instructions
 
 This page gives instructions to the moderator, the one who is responsible for
-running the [Classroom Mob Programming Game](https://classroom-mob-rpg.github.io/).
+running the [Classroom Mob Programming Game](https://classroom-mob-game.github.io/).
 
 ## Prerequisites
 
@@ -51,7 +51,7 @@ whiteboards.
 
 Instruct teach team to select one laptop to use for the work session
 and to remove all others from the environment. If you are using a template
-project&mdash;either one from [the main project page](https://classroom-mob-rpg.github.io/) or your own&mdash;have them clone those repositories now.
+project&mdash;either one from [the main project page](https://classroom-mob-game.github.io/) or your own&mdash;have them clone those repositories now.
 
 Have each team write, on paper or the whiteboard, a list of the team members'
 names.
