@@ -2,7 +2,7 @@
 
 This is the source repository for the game.
 
-You may want to [go to the project website](https://classroom-mob-rpg.github.io/) instead.
+You may want to [go to the project website](https://classroom-mob-game.github.io/) instead.
 
 ## About
 
