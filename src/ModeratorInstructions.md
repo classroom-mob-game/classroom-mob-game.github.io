@@ -49,7 +49,7 @@ Set up the teams and, if possible, arrange the physical space so that each team
 has a clear workspace that includes table space, moveable chairs, and
 whiteboards.
 
-Instruct teach team to select one laptop to use for the work session
+Instruct each team to select one laptop to use for the work session
 and to remove all others from the environment. If you are using a template
 project&mdash;either one from [the main project page](https://classroom-mob-game.github.io/) or your own&mdash;have them clone those repositories now.
 
